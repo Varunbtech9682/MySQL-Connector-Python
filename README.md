@@ -1,4 +1,4 @@
-<h1>Project Title: MySQL CRUD Operations with Python</h1>
+<h1>MySQL CRUD Operations with Python</h1>
 
   <h2>Overview:</h2>
   <p>This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using MySQL database with a Python script. It provides a simple command-line interface (CLI) allowing users to interact with the database by inserting, updating, selecting, and deleting records from a 'users' table.</p>
